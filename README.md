@@ -1,1 +1,1 @@
-# R25EA026
+# Hi, I’m Antara Kalita, a Computer Science Engineering student interested in artificial intelligence, machine learning, software development, and technology-driven problem solving. I enjoy exploring new technologies, working on projects, participating in hackathons, and collaborating with others to build practical solutions. This repository serves as a space to document my learning, projects, and experiments as I continue developing my technical skills.
